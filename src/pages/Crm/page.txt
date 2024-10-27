@@ -1,0 +1,6 @@
+1. Leads View [name, channal, username, trip tags, engagement rate, <connect> <archive> <delete> ]
+2. Lead Analysis [by channals, converted to clients]
+2. Watsapp, Instagram Bots [question and answer flow set in tree form]
+3. Message Templates {Mail, Watsapp, Instagram}
+4. Custom forms and add form inside a [trip/appointment, advertisement, message]
+5. User review and trip engagement Analysis [star rating on set of questions, comments for all the trips [comment control as well] ]
